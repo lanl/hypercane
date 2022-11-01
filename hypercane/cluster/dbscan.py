@@ -1,6 +1,7 @@
 import logging
 import traceback
-from distance import hamming
+# from distance import hamming
+from scipy.spatial.distance import hamming
 
 from ..utils import get_raw_simhash
 import hypercane.errors

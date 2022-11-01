@@ -37,7 +37,6 @@ setup(
         'aiu',
         'archivenow==2020.7.18.12.19.44',
         'boilerpy3',
-        'distance',
         'newspaper3k',
         'guess-language-spirit',
         'jsonlines',

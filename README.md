@@ -6,6 +6,10 @@ Hypercane is a framework for building algorithms for sampling mementos from a we
 
 The possibilities with Hypercane do not stop there. Users can employ Hypercane actions to explore a web archive collection through different actions. This README will provide an overview of these actions, but more detailed documentation is forthcoming.
 
+# Los Alamos Identification
+
+LANL C number: C22029
+
 # Installing Hypercane
 
 **Hypercane requires MongoDB for caching. Install MongoDB as appropriate for your environment first. Hypercane will no longer work without a caching database.**
@@ -132,3 +136,9 @@ To discover the list of commands associated with an action, use the `--help` com
 # The Future of Hypercane
 
 We are working on additional sampling algorithms and options for the advanced actions. Please feel free to submit issues and pull requests at https://github.com/oduwsdl/hypercane.
+
+
+# Copyright
+
+© 2022. Triad National Security, LLC. All rights reserved.
+This program was produced under U.S. Government contract 89233218CNA000001 for Los Alamos National Laboratory (LANL), which is operated by Triad National Security, LLC for the U.S.  Department of Energy/National Nuclear Security Administration. All rights in the program are reserved by Triad National Security, LLC, and the U.S. Department of Energy/National Nuclear Security Administration. The Government is granted for itself and others acting on its behalf a nonexclusive, paid-up, irrevocable worldwide license in this material to reproduce, prepare derivative works, distribute copies to the public, perform publicly and display publicly, and to permit others to do so.
