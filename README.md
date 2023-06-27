@@ -100,7 +100,7 @@ hc sample true-random -i timemaps -a timemap-file.txt -o random-mementos.txt
 At the moment, the following actions are supported:
 * `sample` - generate a sample from the collection with various commands, some of the commands may execute various `filter`, `cluster`, `score`, and `order` actions
 * `report` - generate a report on the collection according to various commands, different commands provide information on collection metadata or provide statistics on the collection
-* `synthesize` - sythesize a web archive collection into the a directory containing files, such as warcs or files
+* `synthesize` - synthesize a web archive collection into the a directory containing files, such as warcs or files
 * `identify` - produce a list of identifiers (URIs) from the collection based on the input, the different commands indicate the type of web resource desired
 * `filter` - filter the given collection according to the criteria specified by the given command
 * `cluster` - group the documents identified from the input into clusters, different commands provide different clustering algorithms
